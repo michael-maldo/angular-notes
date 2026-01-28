@@ -139,7 +139,7 @@ const config: Config = {
       //     ],
       //   },
       // ],
-      copyright: `2026 angular Notes. Built with <a href="https://docusaurus.io">Docusaurus</a>.`,
+      copyright: `2026 angular notes. Built with <a href="https://docusaurus.io">Docusaurus</a>.`,
     },
     prism: {
       theme: prismThemes.github,
